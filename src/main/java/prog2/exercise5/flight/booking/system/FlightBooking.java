@@ -5,7 +5,6 @@ import java.util.Scanner;
 
 public class FlightBooking {  
 
-
 public enum BookingClass {
      FIRST, BUSSINESS, ECONOMY
 }
